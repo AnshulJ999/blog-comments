@@ -1,0 +1,8 @@
+{
+  "origins": [
+    "https://anshuljain.net",
+    "https://www.anshuljain.net",
+    "https://dev.anshuljain.net"
+  ],
+  "originsRegex": ["http://localhost:[0-9]+"]
+}
